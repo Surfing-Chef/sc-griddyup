@@ -1,0 +1,4 @@
+1. Download/install Firefox Developer edition
+2. Download course files form https://courses.wesbos.com/account
+3. Start watching course and follow along
+4. Use git and github if desired to track progress
